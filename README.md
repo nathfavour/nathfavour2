@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<p style="background:orange;">nathfavour's code blog✌🏽</p>
+<p style="background-color:orange; align-content:center;">nathfavour's code blog✌🏽</p>
 
 - 🔭I’m currently working on exciting open source projects with my two organizations, https://github.com/BlockchainBand001 and https://github.com/bAInaryglobe
 - 🌱 I’m currently learning AI and Blockchain
