@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 
 - 📫 How to reach me: just follow me <a href="https://github.com/nathfavour"> here </a> on github, and you have my attention😅
   
-PS: Cut the crap; the best way to reach me is <a href="mailto:nathfavour02@gmail.com">email</a>
