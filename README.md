@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 *** Self employed at <a href="https://github.com/bAInaryglobe">bAInaryglobe</a>
 
-- 🌱 I’m currently exploring AI and Blockchain (recently dabbling into hardware)
+- 🌱 I’m currently exploring AI
 - 👺...hate being idle
 - 👯 I'm open to collaboration ✌🏽😁 and freelancing
 - 
