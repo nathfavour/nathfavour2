@@ -4,17 +4,13 @@
 
 Here are some ideas to get you started:
 -->
-<p style="background-color:orange; align-content:center;"><i>nobody</i> asked, but I'm <strong>Nathaniel😅...</strong></p>
-
-- 📝Education: Bsc. Mathematics and Computer Science
-- 🔭I’m currently working on (and ready to work on more) exciting open source projects!😁😁🤪
+<p style="background-color:orange; align-content:center;"><i>nobody</i> asked, but I'm <strong>nathaniel😅...</strong></p>
 
 *** Self employed at <a href="https://github.com/bAInaryglobe">bAInaryglobe</a>
+- 📝Education: Bsc. Mathematics and Computer Science
 
 - 🌱 I’m currently exploring AI
-- 👺...hate being idle
-- 👯 I'm open to collaboration ✌🏽😁 and freelancing
-- 
-- 📫 How to reach me: just follow me here, and you have my attention😅
-- You can also chat me up on <a href="https://t.me/nathfavor">telegram</a>
+- 🔭 open to cool😎 collaborations/freelancing
+
+- You can reach me on <a href="https://t.me/nathfavor">telegram</a>
   
